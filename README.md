@@ -20,9 +20,9 @@ Now, I want to start again as a web developer.
     - commerce_dev_team - Team member
 - **PLUSCOPE(유)** | 2018.08 - 2019.03
     - DevOps
-- **한기술(주)** | 2014.08 - 2018.03
+- **HANKISUL(주)** | 2014.08 - 2018.03
     - Seoul branch - Network & Security Engineer
-- **에이아이에스테크놀러지(주)** | 2014.01 - 08
+- **AIStechnology(주)** | 2014.01 - 08
     - Network business division - Network & System Engineer
 
 ### 🎓EDUCATION
