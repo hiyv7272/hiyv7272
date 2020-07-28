@@ -29,6 +29,8 @@ Now, I want to start again as a web developer.
 - Wecode Coding Bootcamp | 2020.02
 - Jeonju univ. ComputerScienceEngineer. BS. | 2014.03
 
-[Resume & Portfolio](https://www.canva.com/design/DADwf9reXmQ/o4GGeuDr-jUUKwozvwUMsw/view?utm_content=DADwf9reXmQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+### 🗂️ Portfolio & Blog
+
+[Portfolio](https://www.canva.com/design/DADwf9reXmQ/o4GGeuDr-jUUKwozvwUMsw/view?utm_content=DADwf9reXmQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
 [Blog](https://velog.io/@inyong_pang)
