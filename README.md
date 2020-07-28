@@ -31,6 +31,6 @@ Now, I want to start again as a web developer.
 
 ### 🗂️ Portfolio & Blog
 
-[Portfolio](https://www.canva.com/design/DADwf9reXmQ/o4GGeuDr-jUUKwozvwUMsw/view?utm_content=DADwf9reXmQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
+- [Portfolio](https://www.canva.com/design/DADwf9reXmQ/o4GGeuDr-jUUKwozvwUMsw/view?utm_content=DADwf9reXmQ&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton)
 
-[Blog](https://velog.io/@inyong_pang)
+- [Blog](https://velog.io/@inyong_pang)
