@@ -16,13 +16,13 @@ Now, I want to start again as a web developer.
 - GIBLE PROJECT | @PLUSCOPE
 
 ### 👨‍💻WORK EXPERIENCE
-- **(주)BRANDI** | 2020.03 - 06
+- **BRANDI Inc.** | 2020.03 - 06
     - commerce_dev_team - Team member
-- **PLUSCOPE(유)** | 2018.08 - 2019.03
+- **PLUSCOPE Co., Ltd.** | 2018.08 - 2019.03
     - DevOps
-- **HANKISUL(주)** | 2014.08 - 2018.03
+- **HANKISUL Corp.** | 2014.08 - 2018.03
     - Seoul branch - Network & Security Engineer
-- **AIStechnology(주)** | 2014.01 - 08
+- **AIStechnology Corp.** | 2014.01 - 08
     - Network business division - Network & System Engineer
 
 ### 🎓EDUCATION
