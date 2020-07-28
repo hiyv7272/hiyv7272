@@ -1,3 +1,3 @@
 Hello :smiley:
 
-Welcome to github:octocat:
+Welcome to github 
